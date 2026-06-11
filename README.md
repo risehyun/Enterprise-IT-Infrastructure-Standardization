@@ -62,9 +62,11 @@ ITSM(IT 서비스 관리) 표준 프레임워크에 맞추어 정책 설계, 스
     ```bash
     python automation_example.py
     ```
-    *(실행 시 동일 디렉토리에 `revoke_list.txt` 파일이 자동 생성됩니다.)*
 
    <img width="608" height="119" alt="image" src="https://github.com/user-attachments/assets/4c1ad70d-d5e1-497f-9526-060f3fb9e9c3" />
+
+    *(실행 시 동일 디렉토리에 `revoke_list.txt` 파일이 자동 생성됩니다.)*
+   
    <img width="515" height="74" alt="image" src="https://github.com/user-attachments/assets/2c19ac6e-ca4c-4ef2-9e21-7d4eba7cb4c0" />
 
 
