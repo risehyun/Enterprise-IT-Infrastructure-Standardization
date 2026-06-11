@@ -1,0 +1,6 @@
+Asset_Tag (자산번호),Category (분류),Manufacturer (제조사),Model (모델명),Serial_Number (시리얼),Device_OS (운영체제),Assigned_User (사용자),Department (부서),Status (상태),MDM_Enrolled (MDM 등록),Compliance_Status (보안준수 상태),Purchase_Date (도입일),Warranty_Expiration (보증만료일)
+AST-PC-26001,Laptop,Apple,MacBook Pro 14 (M3),C02X12345678,macOS 14,김개발,IT 인프라팀,In Use (사용중),TRUE,Compliant,2026-01-15,2027-01-14
+AST-PC-26002,Laptop,Lenovo,ThinkPad T14,PF123456,Windows 11,이영업,B2B영업팀,In Use (사용중),TRUE,Compliant,2026-02-10,2027-02-09
+AST-PC-26003,Laptop,Apple,MacBook Pro 14 (M3),C02X87654321,macOS 14,-,-,In Stock (재고),FALSE,N/A,2026-05-01,2027-04-30
+AST-PC-25089,Laptop,LG,Gram 16,301QC12345,Windows 11,박인사,경영지원팀,Under Repair (수리중),TRUE,Non-Compliant,2025-08-20,2026-08-19
+AST-MN-26001,Monitor,Dell,U2723QE (27인치),CN-0ABCD-1234,N/A,김다현,IT 인프라팀,In Use (사용중),N/A,N/A,2026-01-15,2029-01-14
