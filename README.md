@@ -38,7 +38,7 @@ ITSM(IT 서비스 관리) 표준 프레임워크에 맞추어 정책 설계, 스
 
 1. 저장소를 클론한 후 `scripts/` 폴더로 이동합니다.
     ```bash
-    git clone [Repository URL]
+    git clone https://github.com/risehyun/Enterprise-IT-Infrastructure-Standardization.git
     cd scripts
     ```
     
