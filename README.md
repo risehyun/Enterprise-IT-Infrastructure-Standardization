@@ -46,8 +46,7 @@ ITSM(IT 서비스 관리) 표준 프레임워크에 맞추어 정책 설계, 스
     ```bash
     python account_setup.py
     ```
-    
-**실행 결과**
+
 <img width="774" height="353" alt="image" src="https://github.com/user-attachments/assets/e4d19537-6851-4655-99c2-2819a364d582" />
 
     
@@ -55,9 +54,14 @@ ITSM(IT 서비스 관리) 표준 프레임워크에 맞추어 정책 설계, 스
     ```bash
     python device_check.py
     ```
+
+    <img width="519" height="129" alt="image" src="https://github.com/user-attachments/assets/12fd187d-38fc-4dca-ba2c-309c066a23b3" />
+
     
 4. **유휴 SaaS 라이선스 탐지 및 회수 스크립트 실행**
     ```bash
     python automation_example.py
     ```
     *(실행 시 동일 디렉토리에 `revoke_list.txt` 파일이 자동 생성됩니다.)*
+
+   
