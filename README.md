@@ -47,7 +47,7 @@ ITSM(IT 서비스 관리) 표준 프레임워크에 맞추어 정책 설계, 스
     python account_setup.py
     ```
 
-<img width="774" height="353" alt="image" src="https://github.com/user-attachments/assets/e4d19537-6851-4655-99c2-2819a364d582" />
+    <img width="774" height="353" alt="image" src="https://github.com/user-attachments/assets/e4d19537-6851-4655-99c2-2819a364d582" />
 
     
 3. **단말기 보안 상태 검증 실행** (가상의 디바이스 Mock Data 검사)
