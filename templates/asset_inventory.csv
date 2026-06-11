@@ -1,6 +1,6 @@
-Asset_Tag (ÀÚ»ê¹øÈ£),Category (ºĞ·ù),Manufacturer (Á¦Á¶»ç),Model (¸ğµ¨¸í),Serial_Number (½Ã¸®¾ó),Device_OS (¿î¿µÃ¼Á¦),Assigned_User (»ç¿ëÀÚ),Department (ºÎ¼­),Status (»óÅÂ),MDM_Enrolled (MDM µî·Ï),Compliance_Status (º¸¾ÈÁØ¼ö »óÅÂ),Purchase_Date (µµÀÔÀÏ),Warranty_Expiration (º¸Áõ¸¸·áÀÏ)
-AST-PC-26001,Laptop,Apple,MacBook Pro 14 (M3),C02X12345678,macOS 14,±è°³¹ß,IT ÀÎÇÁ¶óÆÀ,In Use (»ç¿ëÁß),TRUE,Compliant,2026-01-15,2027-01-14
-AST-PC-26002,Laptop,Lenovo,ThinkPad T14,PF123456,Windows 11,ÀÌ¿µ¾÷,B2B¿µ¾÷ÆÀ,In Use (»ç¿ëÁß),TRUE,Compliant,2026-02-10,2027-02-09
-AST-PC-26003,Laptop,Apple,MacBook Pro 14 (M3),C02X87654321,macOS 14,-,-,In Stock (Àç°í),FALSE,N/A,2026-05-01,2027-04-30
-AST-PC-25089,Laptop,LG,Gram 16,301QC12345,Windows 11,¹ÚÀÎ»ç,°æ¿µÁö¿øÆÀ,Under Repair (¼ö¸®Áß),TRUE,Non-Compliant,2025-08-20,2026-08-19
-AST-MN-26001,Monitor,Dell,U2723QE (27ÀÎÄ¡),CN-0ABCD-1234,N/A,±è´ÙÇö,IT ÀÎÇÁ¶óÆÀ,In Use (»ç¿ëÁß),N/A,N/A,2026-01-15,2029-01-14
+Asset_Tag (ìì‚°ë²ˆí˜¸),Category (ë¶„ë¥˜),Manufacturer (ì œì¡°ì‚¬),Model (ëª¨ë¸ëª…),Serial_Number (ì‹œë¦¬ì–¼),Device_OS (ìš´ì˜ì²´ì œ),Assigned_User (ì‚¬ìš©ì),Department (ë¶€ì„œ),Status (ìƒíƒœ),MDM_Enrolled (MDM ë“±ë¡),Compliance_Status (ë³´ì•ˆì¤€ìˆ˜ ìƒíƒœ),Purchase_Date (ë„ì…ì¼),Warranty_Expiration (ë³´ì¦ë§Œë£Œì¼)
+AST-PC-26001,Laptop,Apple,MacBook Pro 14 (M3),C02X12345678,macOS 14,ê¹€ê°œë°œ,IT ì¸í”„ë¼íŒ€,In Use (ì‚¬ìš©ì¤‘),TRUE,Compliant,2026-01-15,2027-01-14
+AST-PC-26002,Laptop,Lenovo,ThinkPad T14,PF123456,Windows 11,ì´ì˜ì—…,B2Bì˜ì—…íŒ€,In Use (ì‚¬ìš©ì¤‘),TRUE,Compliant,2026-02-10,2027-02-09
+AST-PC-26003,Laptop,Apple,MacBook Pro 14 (M3),C02X87654321,macOS 14,-,-,In Stock (ì¬ê³ ),FALSE,N/A,2026-05-01,2027-04-30
+AST-PC-25089,Laptop,LG,Gram 16,301QC12345,Windows 11,ë°•ì¸ì‚¬,ê²½ì˜ì§€ì›íŒ€,Under Repair (ìˆ˜ë¦¬ì¤‘),TRUE,Non-Compliant,2025-08-20,2026-08-19
+AST-MN-26001,Monitor,Dell,U2723QE (27ì¸ì¹˜),CN-0ABCD-1234,N/A,ê¹€ë‹¤í˜„,IT ì¸í”„ë¼íŒ€,In Use (ì‚¬ìš©ì¤‘),N/A,N/A,2026-01-15,2029-01-14
