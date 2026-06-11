@@ -18,7 +18,11 @@ def detect_and_revoke_licenses(csv_path, output_path):
         with open(csv_path, mode='r', encoding='utf-8-sig') as file:
             reader = csv.DictReader(file)
             
-            for row in reader:
+            for row in reader:    
+                # CSV에 빈 줄이나 데이터가 없는 행이 있을 경우 건너뛰는 방어 코드
+                if not row.get('User_Name') or not row.get('Last_Login_Date'):
+                  continue
+
                 name = row['User_Name']
                 email = row['Email']
                 license_type = row['License_Type']
@@ -50,8 +54,10 @@ def detect_and_revoke_licenses(csv_path, output_path):
         else:
             print("✨ 유휴 또는 회수 대상 라이선스가 존재하지 않습니다. 인프라 비용이 최적화된 상태입니다.")
             
+    except FileNotFoundError:
+        print(f"[오류] '{csv_path}' 파일을 찾을 수 없습니다.")
     except Exception as e:
-        print(f"[오류] 데이터 분석 중 문제가 발생했습니다: {e}")
+        print(f"[장애 발생] 데이터 처리 중 오류: {e}")
 
 if __name__ == "__main__":
     log_csv = "saas_usage_log.csv"
